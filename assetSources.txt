@@ -1,0 +1,8 @@
+all assets with letter 'suffixes' (such as homeW.png) are edited versions of the orignal and as such are not sourced.
+
+home.png - https://www.flaticon.com/free-icon/home_25694#term=home&page=1&position=7
+shoppingCart.png - https://www.flaticon.com/free-icon/shopping-cart_2772#term=shop&page=1&position=11
+info.png - https://www.flaticon.com/free-icon/rounded-info-button_61053#term=info&page=1&position=34
+synthwaveRetroBackground.jpeg - https://alpha.wallhaven.cc/wallpaper/383901
+spikeBackground.jpeg - https://www.pinterest.co.uk/pin/600878775254873034/?lp=true // https://i.pinimg.com/originals/4b/68/64/4b68643b6e53b643b15a4145af8deb73.jpg
+bladerunnerUnicorn.jpeg - https://miserym.deviantart.com/art/Blade-Runner-Minimalist-Poster-395322409
